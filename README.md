@@ -4,9 +4,11 @@
 
 
 // in package.json we add a build command:
+
         "scripts":{
             "build":"babel src -d dist"
         }
+        
     //this will take the source files from the src directory and output the result in a dist directory.
 
 
